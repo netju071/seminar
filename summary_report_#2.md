@@ -50,7 +50,7 @@
 <h3 id="2.1">2.1.&ensp;회사 선택</h3>
 <div style="font-size: 18px">
     <ul>
-        <li>공기업><br>
+        <li>공기업<br>
             <ul>
                 <li>매우 안정적인 삶</li>
                 <li>적은 연봉</li>
@@ -93,9 +93,6 @@
             </ul>
         </li>
     </ul>
-
-    <br>
-    
     <b>나에게 좋은회사? 추천해보자면</b>
     <ul style="margin-bottom: 10px; line-height: 30px">
         <li>편히 살고 싶다 -> 공기업</li>
@@ -105,9 +102,6 @@
         <li>하고 싶은 것, 이루고 싶은 것이 있다 -> 창업</li>
         <li>연구하고 싶다 -> 대학원</li>
     </ul>
-
-    <br>
-    
     <b>중견, 중소, 스타트업 선택?</b>
     <ul style="margin-bottom: 10px; line-height: 30px">
         <li>어떤 사람들이 일하는가?</li>
