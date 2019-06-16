@@ -50,42 +50,48 @@
 <h3 id="2.1">2.1.&ensp;회사 선택</h3>
 <div style="font-size: 18px">
     <ul>
-        <li>공기업</li>
-        <ul style="margin-bottom: 10px; line-height: 30px">
-            <li>매우 안정적인 삶</li>
-            <li>적은 연봉</li>
-            <li>적은 성장</li>
-        </ul>
-        <li>대기업</li>
-        <ul style="margin-bottom: 10px; line-height: 30px">
-            <li>안정적인 삶</li>
-            <li>많은 연봉</li>
-            <li>적은 성장</li>
-        </ul>
-        <li>중견기업</li>
-        <ul style="margin-bottom: 10px; line-height: 30px">
-            <li>조금 안정적인 삶</li>
-            <li>적당한 연봉</li>
-            <li>적당한 성장</li>
-        </ul>
-        <li>중소기업</li>
-        <ul style="margin-bottom: 10px; line-height: 30px">
-            <li>회사에 따라 다른 삶의 안정성</li>
-            <li>적은 연봉</li>
-            <li>회사에 따라 다른 성장</li>
-        </ul>
-        <li>스타트업</li>
-        <ul style="margin-bottom: 10px; line-height: 30px">
-            <li>회사에 따라 다른 삶의 안정성</li>
-            <li>회사에 따라 다른 연봉</li>
-            <li>회사에 따라 다른 성장</li>
-        </ul>
-        <li>창업</li>
-        <ul style="margin-bottom: 10px; line-height: 30px">
-            <li>Death 안정성</li>
-            <li>Death 연봉</li>
-            <li>발걸음 하나하나가 성장</li>
-        </ul>
+        <li>공기업><br>
+            <ul>
+                <li>매우 안정적인 삶</li>
+                <li>적은 연봉</li>
+                <li>적은 성장</li>
+            </ul>
+        </li>
+        <li>대기업<br>
+            <ul>
+                <li>안정적인 삶</li>
+                <li>많은 연봉</li>
+                <li>적은 성장</li>
+            </ul>            
+        </li>
+        <li>중견기업<br>
+            <ul>
+                <li>조금 안정적인 삶</li>
+                <li>적당한 연봉</li>
+                <li>적당한 성장</li>
+            </ul>
+        </li>
+        <li>중소기업<br>
+            <ul>
+                <li>회사에 따라 다른 삶의 안정성</li>
+                <li>적은 연봉</li>
+                <li>회사에 따라 다른 성장</li>
+            </ul>
+        </li>
+        <li>스타트업<br>
+            <ul>
+                <li>회사에 따라 다른 삶의 안정성</li>
+                <li>회사에 따라 다른 연봉</li>
+                <li>회사에 따라 다른 성장</li>
+            </ul>
+        </li>
+        <li>창업<br>
+            <ul>
+                <li>Death 안정성</li>
+                <li>Death 연봉</li>
+                <li>발걸음 하나하나가 성장</li>
+            </ul>
+        </li>
     </ul>
 
     <br>
